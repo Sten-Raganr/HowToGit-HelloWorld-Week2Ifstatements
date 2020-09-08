@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week2IfStatements", "week2IfStatements.csproj", "{3502DBF1-00D1-4673-85AD-23FCE5643B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "..\Task2\Task2.csproj", "{B6298782-5501-4302-A66A-AFA98E96CBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "..\Task3\Task3.csproj", "{F1B771D7-753D-4EF0-B3F4-A8DE4BD673A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3502DBF1-00D1-4673-85AD-23FCE5643B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3502DBF1-00D1-4673-85AD-23FCE5643B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3502DBF1-00D1-4673-85AD-23FCE5643B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3502DBF1-00D1-4673-85AD-23FCE5643B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6298782-5501-4302-A66A-AFA98E96CBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6298782-5501-4302-A66A-AFA98E96CBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6298782-5501-4302-A66A-AFA98E96CBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6298782-5501-4302-A66A-AFA98E96CBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B771D7-753D-4EF0-B3F4-A8DE4BD673A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B771D7-753D-4EF0-B3F4-A8DE4BD673A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B771D7-753D-4EF0-B3F4-A8DE4BD673A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B771D7-753D-4EF0-B3F4-A8DE4BD673A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1418851-B8CF-4042-B7E8-F412851E995F}
+	EndGlobalSection
+EndGlobal
